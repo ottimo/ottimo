@@ -1,16 +1,16 @@
 ### Hi there 👋
 
 <a href="https://twitter.com/ottimorosi">
-<img src="https://img.shields.io/twitter/follow/ottimorosi?style=for-the-badge&label=%40ottimorosi&logo=twitter&logoColor=c297ff&labelColor=white&color=c297ff">
+<img src="https://img.shields.io/twitter/follow/ottimorosi?style=for-the-badge&label=%40ottimorosi&logo=twitter&logoColor=7957d5&labelColor=white&color=7957d5">
 </a>
 <a href="https://www.linkedin.com/in/matteorosi/">
-<img src="https://img.shields.io/badge/-matteo%20rosi-blue?style=for-the-badge&logo=Linkedin&logoColor=c297ff&labelColor=white&color=white">
+<img src="https://img.shields.io/badge/-matteo%20rosi-blue?style=for-the-badge&logo=Linkedin&logoColor=7957d5&labelColor=white&color=white">
 </a>
 <a href="mailto:matteo.rosi@gmail.com">
-<img src="https://img.shields.io/badge/matteo.rosi@gmail.com-0078D4?style=for-the-badge&logo=GMail&logoColor=c297ff&labelColor=white&color=white">
+<img src="https://img.shields.io/badge/matteo.rosi@gmail.com-0078D4?style=for-the-badge&logo=GMail&logoColor=7957d5&labelColor=white&color=white">
 </a>
 <a href="https://keybase.io/ottimo">
-<img src="https://img.shields.io/keybase/pgp/ottimo?style=for-the-badge&logoColor=white&labelColor=c297ff&color=white">
+<img src="https://img.shields.io/keybase/pgp/ottimo?style=for-the-badge&logoColor=white&labelColor=7957d5&color=white">
 </a>
 
 <a href="https://github.com/ottimo">
