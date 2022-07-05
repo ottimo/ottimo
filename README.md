@@ -9,9 +9,9 @@
 <a href="mailto:matteo.rosi@gmail.com">
 <img src="https://img.shields.io/badge/matteo.rosi@gmail.com-0078D4?style=for-the-badge&logo=GMail&logoColor=7957d5&labelColor=white&color=white">
 </a>
-<a href="https://keybase.io/ottimo">
+<!-- <a href="https://keybase.io/ottimo">
 <img src="https://img.shields.io/keybase/pgp/ottimo?style=for-the-badge&logoColor=white&labelColor=7957d5&color=white">
-</a>
+</a> -->
 
 <a href="https://github.com/ottimo">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ottimo&count_private=true&show_icons=true&theme=buefy" />
