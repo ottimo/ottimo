@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+<a href="https://twitter.com/ottimorosi">
+<img src="https://img.shields.io/twitter/follow/ottimorosi?style=for-the-badge&label=%40ottimorosi&logo=twitter&logoColor=820dde&labelColor=white&color=820dde">
+</a>
+<a href="https://www.linkedin.com/in/matteorosi/">
+<img src="https://img.shields.io/badge/-matteo%20rosi-blue?style=for-the-badge&logo=Linkedin&logoColor=820dde&labelColor=white&color=white">
+</a>
+<a href="mailto:matteo.rosi@gmail.com">
+<img src="https://img.shields.io/badge/matteo.rosi@gmail.com-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=820dde&labelColor=white&color=white">
+</a>
+<a href="https://keybase.io/ottimo">
+<img src="https://img.shields.io/keybase/pgp/ottimo?style=for-the-badge&logoColor=820dde&labelColor=white&color=820dde">
+</a>
 
 <a href="https://github.com/ottimo">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ottimo&count_private=true&show_icons=true&theme=buefy" />
