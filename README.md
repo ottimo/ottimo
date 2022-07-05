@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/matteo.rosi@gmail.com-0078D4?style=for-the-badge&logo=Microsoft-Outlook&logoColor=c297ff&labelColor=white&color=white">
 </a>
 <a href="https://keybase.io/ottimo">
-<img src="https://img.shields.io/keybase/pgp/ottimo?style=for-the-badge&logoColor=c297ff&labelColor=white&color=c297ff">
+<img src="https://img.shields.io/keybase/pgp/ottimo?style=for-the-badge&logoColor=white&labelColor=c297ff&color=white">
 </a>
 
 <a href="https://github.com/ottimo">
